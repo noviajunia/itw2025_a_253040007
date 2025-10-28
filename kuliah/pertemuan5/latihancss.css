@@ -1,5 +1,10 @@
 h1 {
-            color:blue
-            font-size: 50px; arial
+            color:blue;
+            font-size: 50px; 
             font-family:  "Quintessential", serif;
+            text-decoration: line-through;
+            text-transform: lowercase;
+            letter-spacing: 20px;
+            text-align: center;
+
         }
